@@ -15,15 +15,10 @@ Languaje and Tools:
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="65" height="65"/> 
 	<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="65" height="65"/>
-	<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="65" height="65"/>
-	<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="65" height="65"/>
-	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="65" height="65"/>
 	<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="mysql" width="65" height="65"/>
 	<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="mysql" width="65" height="65"/>
 	<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="mysql" width="65" height="65"/>
 	<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="mysql" width="65" height="65"/>
-	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="mysql" width="65" height="65"/>
-	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="mysql" width="65" height="65"/>
 	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="mysql" width="65" height="65"/>
 	<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="mysql" width="65" height="65"/>
 	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="mysql" width="65" height="65"/>
