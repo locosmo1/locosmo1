@@ -15,7 +15,6 @@ Languaje and Tools:
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="65" height="65"/> 
 	<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="mysql" width="65" height="65"/>
-	<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="mysql" width="65" height="65"/>
 	<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="mysql" width="65" height="65"/>
 	<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="mysql" width="65" height="65"/>
 	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="mysql" width="65" height="65"/>
