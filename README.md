@@ -9,24 +9,6 @@ please visit my page https://buy-online-7b548.web.app/#/
 
 I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
 
-Languaje and Tools:
-<p align="left">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft azure" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="65" height="65"/> 
-	<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="mysql" width="65" height="65"/>
-	<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="mysql" width="65" height="65"/>
-	<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="mysql" width="65" height="65"/>
-	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="mysql" width="65" height="65"/>
-	<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="mysql" width="65" height="65"/>
-	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="mysql" width="65" height="65"/>
-	<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="mysql" width="65" height="65"/>
-	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="65" height="65"/>
-	<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="mysql" width="65" height="65"/>
-
-	
-</p>
-
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
@@ -42,6 +24,23 @@ Like My Work?
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <img align="right" height="250" width="375" alt="" src="https://www.keenesystems.com/hubfs/Pillar/asp.net-development/asp-net-3.jpg" />
+
+Languaje and Tools:
+<p align="left">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft azure" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="65" height="65"/> 
+	<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="mysql" width="65" height="65"/>
+	<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="mysql" width="65" height="65"/>
+	<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="mysql" width="65" height="65"/>
+	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="mysql" width="65" height="65"/>
+	<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="mysql" width="65" height="65"/>
+	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="mysql" width="65" height="65"/>
+	<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="mysql" width="65" height="65"/>
+	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="65" height="65"/>
+	<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="mysql" width="65" height="65"/>
+
+</p>
 
 ### Talking about Personal Stuff:
 
