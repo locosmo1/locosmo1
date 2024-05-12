@@ -19,9 +19,7 @@ Joined Github **5** years ago.
 
 Since then I pushed **3091**+ commits, opened **229**+ issues, submitted **437**+ pull requests, created **20**+ gists and contributed to **9**+ public repositories.
 
-Like My Work?
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <img align="right" height="250" width="375" alt="" src="https://www.keenesystems.com/hubfs/Pillar/asp.net-development/asp-net-3.jpg" />
 
@@ -88,6 +86,10 @@ Languaje and Tools:
 </details>
 
 #
+
+Like My Work?
+
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <div align="center">
 
