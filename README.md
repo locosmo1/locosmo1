@@ -6,19 +6,16 @@ please visit my page https://buy-online-7b548.web.app/#/
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jhonatanpabon)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
-
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
-
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+  
+I am a Full Stack Developer, have a passion for problem-solving, I have a summary of the technologies I use are .Net, Backend, Apis, RESTful, Entity Framework, Dapper, Sql, SqlServer, Mysql, Docker, Postman, Vue, Firebase, Azure.
+- Developer in client-side technologies such as Vuejs.
+- Backend developer applying solid knowledge in the development and maintenance of Apis with c#.
+- Management of secondary technologies such as git, github, firebase authentication, firebase storage, firebase hosting.
+- 3 years working in the IT Industry and creating and maintaining company websites.
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
-
-Joined Github **5** years ago.
-
-Since then I pushed **3091**+ commits, opened **229**+ issues, submitted **437**+ pull requests, created **20**+ gists and contributed to **9**+ public repositories.
-
+Feel free to connect with me, for all things tech or just to say hello! Let's shape the future of tech together.
 
 
 <img align="right" height="250" width="375" alt="" src="https://www.keenesystems.com/hubfs/Pillar/asp.net-development/asp-net-3.jpg" />
